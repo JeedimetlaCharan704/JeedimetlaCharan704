@@ -1,0 +1,38 @@
+[
+  {
+    "name": "FinPilot",
+    "repo": "JeedimetlaCharan704/FinPilot-Personal-Finance-Decision-Support-Agent",
+    "description": "Multi-agent AI finance advisor that answers 'Can I afford this?' with deterministic verdicts and an inspectable reasoning trace",
+    "tags": ["Next.js", "FastAPI", "Python"]
+  },
+  {
+    "name": "ClaimGuard",
+    "repo": "JeedimetlaCharan704/ClaimGuard",
+    "description": "Pay-per-request claim verification API for AI agents returning SUPPORTED/REFUTED/UNCERTAIN verdicts backed by live web evidence",
+    "tags": ["TypeScript", "Node.js", "x402"]
+  },
+  {
+    "name": "SkillPlot",
+    "repo": "JeedimetlaCharan704/SkillPlot",
+    "description": "Full-stack career intelligence platform: resume analysis, placement readiness, skill gaps and GitHub activity in real time",
+    "tags": ["Node.js", "Express", "MongoDB"]
+  },
+  {
+    "name": "Career-Volt",
+    "repo": "JeedimetlaCharan704/Career-Volt",
+    "description": "AI platform mapping resume skills to real job roles with readiness scoring, ATS audit, roadmaps and a Groq career copilot",
+    "tags": ["React", "FastAPI", "Groq"]
+  },
+  {
+    "name": "Pokemon TCG Agent",
+    "repo": "JeedimetlaCharan704/Pok-mon-TCG-AI-agent",
+    "description": "Evidence-driven Pokemon TCG battle agent with 7-axis evaluation and horizon-2 lookahead, tuned by controlled experiments",
+    "tags": ["Python", "Kaggle", "Game AI"]
+  },
+  {
+    "name": "Hackathon Alert Bot",
+    "repo": "JeedimetlaCharan704/hackathon-alert-bot",
+    "description": "$0-cost hackathon alert bot: scrapes 7 sources, filters with rules and posts to Telegram channels via GitHub Actions",
+    "tags": ["Python", "Actions", "Telegram"]
+  }
+]
